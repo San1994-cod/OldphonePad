@@ -1,0 +1,14 @@
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.GeneratedMSBuildEditorConfig.editorconfig
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.AssemblyInfoInputs.cache
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.AssemblyInfo.cs
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.csproj.CoreCompileInputs.cache
+/home/moodle/KeypadPhone/bin/Debug/net8.0/KeypadPhone
+/home/moodle/KeypadPhone/bin/Debug/net8.0/KeypadPhone.deps.json
+/home/moodle/KeypadPhone/bin/Debug/net8.0/KeypadPhone.runtimeconfig.json
+/home/moodle/KeypadPhone/bin/Debug/net8.0/KeypadPhone.dll
+/home/moodle/KeypadPhone/bin/Debug/net8.0/KeypadPhone.pdb
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.dll
+/home/moodle/KeypadPhone/obj/Debug/net8.0/refint/KeypadPhone.dll
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.pdb
+/home/moodle/KeypadPhone/obj/Debug/net8.0/KeypadPhone.genruntimeconfig.cache
+/home/moodle/KeypadPhone/obj/Debug/net8.0/ref/KeypadPhone.dll
