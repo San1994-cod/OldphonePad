@@ -19,11 +19,11 @@ class OldPhonePad
     };
 
     // Method to convert keypad input into text
-    public static string Translate(string input)
+    public static string Test(string input)
     {
-        string result = "";   // stores the final output
-        char lastKey = '\0';  // keeps track of the last pressed key
-        int pressCount = 0;   // counts consecutive presses of the same key
+        string result = "";   // declare variable as "result" to store the final output
+        char lastKey = '\0';  // declare variable as "lastKey" to track of the last pressed key
+        int pressCount = 0;   // declare variable as "pressCount" to consecutive presses of the same key
 
         foreach (char c in input)
         {
@@ -31,7 +31,7 @@ class OldPhonePad
             {
                 if (lastKey != '\0')
                 {
-                    result += GetLetter(lastKey, pressCount);
+                    result += GetLetter(lastKey, pressCount);// method call
                 }
                 break;
             }
@@ -84,7 +84,7 @@ class Program
         Console.WriteLine("Enter input(end with #):");
         string input = Console.ReadLine();
 
-        string output = OldPhonePad.Translate(input);
+        string output = OldPhonePad.Test(input);
         Console.WriteLine("Output: " + output);
     }
 }
